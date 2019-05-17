@@ -1,0 +1,20 @@
+{
+  "name": "my_Test_package",
+  "description": "Test package",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/combusken123/my_test_package.git"
+  },
+  "keywords": [],
+  "author": "combusken",
+  "license": "CU",
+  "bugs": {
+    "url": "https://github.com/combusken123/my_test_package/issues"
+  },
+  "homepage": "https://github.com/combusken123/my_test_package"
+}
